@@ -1,3 +1,7 @@
 # Sumedha's Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+
+### Summary
+This repository contains all notes taken by [Sumedha] (https://github.com/sumedhan) for the [Lighthouse Labs] (https://www.lighthouselabs.ca/) Web development Bootcamp.
+
+
+
